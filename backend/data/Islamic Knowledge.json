@@ -1,0 +1,61 @@
+[
+  {"text":"Islam means?","options":["Peace","War","Power","Rule"],"correct":0},
+  {"text":"Muslim means?","options":["One who submits to Allah","Leader","Scholar","Warrior"],"correct":0},
+  {"text":"Holy book of Islam?","options":["Quran","Bible","Torah","Vedas"],"correct":0},
+  {"text":"Last Prophet of Islam?","options":["Prophet Muhammad (PBUH)","Prophet Isa","Prophet Musa","Prophet Ibrahim"],"correct":0},
+  {"text":"First revelation word?","options":["Iqra","Bismillah","Allah","Noor"],"correct":0},
+
+  {"text":"Angel of revelation?","options":["Jibreel","Mikaeel","Israfeel","Izraeel"],"correct":0},
+  {"text":"Number of pillars of Islam?","options":["5","4","6","7"],"correct":0},
+  {"text":"First pillar of Islam?","options":["Shahada","Salah","Zakat","Hajj"],"correct":0},
+  {"text":"Prayer is called?","options":["Salah","Zakat","Roza","Hajj"],"correct":0},
+  {"text":"Fasting is called?","options":["Roza","Salah","Zakat","Hajj"],"correct":0},
+
+  {"text":"Charity is called?","options":["Zakat","Salah","Roza","Hajj"],"correct":0},
+  {"text":"Pilgrimage is called?","options":["Hajj","Umrah","Zakat","Salah"],"correct":0},
+  {"text":"Holy city of Muslims?","options":["Makkah","Madinah","Jerusalem","Cairo"],"correct":0},
+  {"text":"Kaaba located in?","options":["Makkah","Madinah","Taif","Jerusalem"],"correct":0},
+  {"text":"First mosque in Islam?","options":["Masjid Quba","Masjid Haram","Masjid Nabawi","None"],"correct":0},
+
+  {"text":"Prophet Muhammad (PBUH) born in?","options":["Makkah","Madinah","Taif","Yemen"],"correct":0},
+  {"text":"Year of Hijrah?","options":["622 AD","610 AD","570 AD","630 AD"],"correct":0},
+  {"text":"Hijrah means?","options":["Migration","War","Prayer","Fasting"],"correct":0},
+  {"text":"Mother of Prophet?","options":["Amina","Khadija","Aisha","Fatima"],"correct":0},
+  {"text":"Father of Prophet?","options":["Abdullah","Abu Talib","Abu Bakr","Umar"],"correct":0},
+
+  {"text":"First wife of Prophet?","options":["Khadija","Aisha","Fatima","Zainab"],"correct":0},
+  {"text":"First Caliph of Islam?","options":["Abu Bakr","Umar","Usman","Ali"],"correct":0},
+  {"text":"Second Caliph?","options":["Umar","Abu Bakr","Ali","Usman"],"correct":0},
+  {"text":"Third Caliph?","options":["Usman","Ali","Umar","Abu Bakr"],"correct":0},
+  {"text":"Fourth Caliph?","options":["Ali","Umar","Usman","Abu Bakr"],"correct":0},
+
+  {"text":"Number of Surahs in Quran?","options":["114","113","115","120"],"correct":0},
+  {"text":"Longest Surah?","options":["Al-Baqarah","Al-Fatiha","Yaseen","Ikhlas"],"correct":0},
+  {"text":"Shortest Surah?","options":["Al-Kawthar","Ikhlas","Falaq","Nas"],"correct":0},
+  {"text":"Night of power?","options":["Laylatul Qadr","Laylatul Baraat","Shab-e-Miraj","None"],"correct":0},
+  {"text":"Month of fasting?","options":["Ramadan","Shaban","Muharram","Rajab"],"correct":0},
+
+  {"text":"Direction of prayer?","options":["Qibla","Kaaba","Makkah","Masjid"],"correct":0},
+  {"text":"Call to prayer?","options":["Azan","Iqamah","Takbir","Dua"],"correct":0},
+  {"text":"Friday prayer called?","options":["Jummah","Eid","Fajr","Isha"],"correct":0},
+  {"text":"Prayer before sunrise?","options":["Fajr","Dhuhr","Asr","Maghrib"],"correct":0},
+  {"text":"Prayer after sunset?","options":["Maghrib","Fajr","Asr","Isha"],"correct":0},
+
+  {"text":"Prayer at night?","options":["Isha","Fajr","Dhuhr","Asr"],"correct":0},
+  {"text":"Charity given yearly?","options":["Zakat","Sadaqah","Fitrah","None"],"correct":0},
+  {"text":"Voluntary charity?","options":["Sadaqah","Zakat","Hajj","Roza"],"correct":0},
+  {"text":"Festival after Ramadan?","options":["Eid ul-Fitr","Eid ul-Adha","Muharram","None"],"correct":0},
+  {"text":"Festival of sacrifice?","options":["Eid ul-Adha","Eid ul-Fitr","Hajj","None"],"correct":0},
+
+  {"text":"Animal sacrifice in Islam?","options":["Qurbani","Zakat","Sadaqah","Roza"],"correct":0},
+  {"text":"Book revealed to Musa?","options":["Torah","Bible","Quran","Zabur"],"correct":0},
+  {"text":"Book revealed to Isa?","options":["Injeel","Torah","Quran","Zabur"],"correct":0},
+  {"text":"Book revealed to Dawood?","options":["Zabur","Torah","Injeel","Quran"],"correct":0},
+  {"text":"Angel of death?","options":["Izraeel","Jibreel","Mikaeel","Israfeel"],"correct":0},
+
+  {"text":"Angel of sustenance?","options":["Mikaeel","Jibreel","Israfeel","Izraeel"],"correct":0},
+  {"text":"Angel who will blow trumpet?","options":["Israfeel","Jibreel","Mikaeel","Izraeel"],"correct":0},
+  {"text":"Day of judgment called?","options":["Qayamah","Akhirah","Hisab","None"],"correct":0},
+  {"text":"Heaven called?","options":["Jannah","Jahannam","Duniya","Barzakh"],"correct":0},
+  {"text":"Hell called?","options":["Jahannam","Jannah","Barzakh","Duniya"],"correct":0}
+]

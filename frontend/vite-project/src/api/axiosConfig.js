@@ -1,0 +1,20 @@
+import axios from 'axios';
+
+const API_BASE = 'http://127.0.0.1:8000/api';
+
+const axiosInstance = axios.create({
+  baseURL: API_BASE,
+});
+
+axiosInstance.interceptors.request.use(
+  (config) => {
+    const token = localStorage.getItem('token');
+    if (token && !config.url.includes('/auth/login') && !config.url.includes('/auth/register')) {
+      config.headers.Authorization = `Bearer ${token}`;
+    }
+    return config;
+  },
+  (error) => Promise.reject(error)
+);
+
+export default axiosInstance;

@@ -1,0 +1,61 @@
+[
+  {"text":"Python is a?","options":["Compiled language","Interpreted language","Assembly language","Machine language"],"correct":1},
+  {"text":"Who developed Python?","options":["Dennis Ritchie","James Gosling","Guido van Rossum","Bjarne Stroustrup"],"correct":2},
+  {"text":"Which keyword defines a function?","options":["function","def","fun","define"],"correct":1},
+  {"text":"Which symbol is used for comments?","options":["//","#","<!-- -->","**"],"correct":1},
+  {"text":"Which data type is immutable?","options":["List","Dictionary","Set","Tuple"],"correct":3},
+
+  {"text":"Which is used to take input?","options":["input()","scan()","read()","get()"],"correct":0},
+  {"text":"Which is used to print output?","options":["echo()","print()","write()","display()"],"correct":1},
+  {"text":"Which operator is exponent?","options":["^","**","%","//"],"correct":1},
+  {"text":"Which operator is floor division?","options":["/","//","%","**"],"correct":1},
+  {"text":"Which keyword for loop?","options":["loop","iterate","for","repeat"],"correct":2},
+
+  {"text":"Which keyword for condition?","options":["if","when","check","condition"],"correct":0},
+  {"text":"Which keyword for else if?","options":["elseif","elif","else if","ifelse"],"correct":1},
+  {"text":"Which data type is list?","options":["[]","{}","()","<>"],"correct":0},
+  {"text":"Which data type is dictionary?","options":["{}","[]","()","<>"],"correct":0},
+  {"text":"Which data type is set?","options":["{}","set()","[]","()"],"correct":1},
+
+  {"text":"Which function returns length?","options":["size()","len()","count()","length()"],"correct":1},
+  {"text":"Which method adds element to list?","options":["add()","append()","insert()","push()"],"correct":1},
+  {"text":"Which method removes element?","options":["delete()","remove()","pop()","clear()"],"correct":2},
+  {"text":"Which method sorts list?","options":["sort()","arrange()","order()","set()"],"correct":0},
+  {"text":"Which method reverses list?","options":["reverse()","flip()","invert()","back()"],"correct":0},
+
+  {"text":"Which loop runs forever?","options":["for","while","do while","loop"],"correct":1},
+  {"text":"Which keyword breaks loop?","options":["stop","break","exit","end"],"correct":1},
+  {"text":"Which keyword skips iteration?","options":["skip","pass","continue","next"],"correct":2},
+  {"text":"Which keyword does nothing?","options":["continue","pass","skip","none"],"correct":1},
+  {"text":"Which keyword defines class?","options":["class","object","define","create"],"correct":0},
+
+  {"text":"Which method initializes object?","options":["init()","__init__()","constructor()","start()"],"correct":1},
+  {"text":"Which keyword refers instance?","options":["this","self","obj","me"],"correct":1},
+  {"text":"Which is inheritance?","options":["Reuse code","Delete code","Create code","None"],"correct":0},
+  {"text":"Which is polymorphism?","options":["Many forms","One form","No form","None"],"correct":0},
+  {"text":"Which is encapsulation?","options":["Binding data","Breaking data","Copying data","None"],"correct":0},
+
+  {"text":"Which keyword handles exception?","options":["try","catch","error","handle"],"correct":0},
+  {"text":"Which keyword catches exception?","options":["except","catch","handle","error"],"correct":0},
+  {"text":"Which keyword for finally?","options":["end","finally","last","done"],"correct":1},
+  {"text":"Which function opens file?","options":["open()","file()","read()","load()"],"correct":0},
+  {"text":"Which mode for read file?","options":["r","w","a","x"],"correct":0},
+
+  {"text":"Which mode for write file?","options":["r","w","a","x"],"correct":1},
+  {"text":"Which mode for append file?","options":["r","w","a","x"],"correct":2},
+  {"text":"Which library for math?","options":["math","calc","num","compute"],"correct":0},
+  {"text":"Which library for random?","options":["random","rand","gen","num"],"correct":0},
+  {"text":"Which function generates random number?","options":["rand()","random()","gen()","num()"],"correct":1},
+
+  {"text":"Which keyword imports module?","options":["include","import","using","require"],"correct":1},
+  {"text":"Which keyword defines lambda?","options":["lambda","def","func","arrow"],"correct":0},
+  {"text":"Which is anonymous function?","options":["lambda","def","function","none"],"correct":0},
+  {"text":"Which function converts to int?","options":["int()","str()","float()","num()"],"correct":0},
+  {"text":"Which function converts to string?","options":["str()","int()","float()","text()"],"correct":0},
+
+  {"text":"Which function converts to float?","options":["float()","int()","str()","double()"],"correct":0},
+  {"text":"Which operator checks equality?","options":["=","==","===","!="],"correct":1},
+  {"text":"Which operator checks not equal?","options":["!=","<>","not=","!="],"correct":0},
+  {"text":"Which keyword for logical AND?","options":["&&","and","AND","&"],"correct":1},
+  {"text":"Which keyword for logical OR?","options":["||","or","OR","|"],"correct":1}
+]

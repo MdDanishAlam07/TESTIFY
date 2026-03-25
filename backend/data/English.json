@@ -1,0 +1,61 @@
+[
+{"text":"Choose correct article: ___ apple","options":["a","an","the","no article"],"correct":1},
+{"text":"Plural of 'child'?","options":["childs","children","childes","child"],"correct":1},
+{"text":"Synonym of 'big'?","options":["small","tiny","large","short"],"correct":2},
+{"text":"Antonym of 'happy'?","options":["sad","joyful","glad","excited"],"correct":0},
+{"text":"Past tense of 'go'?","options":["goed","went","gone","goes"],"correct":1},
+
+{"text":"Fill: She ___ playing","options":["is","are","am","be"],"correct":0},
+{"text":"He ___ a book","options":["read","reads","reading","is read"],"correct":1},
+{"text":"Choose adjective","options":["run","quick","eat","play"],"correct":1},
+{"text":"Choose verb","options":["happy","run","blue","slow"],"correct":1},
+{"text":"Choose noun","options":["quickly","run","happiness","blue"],"correct":2},
+
+{"text":"Opposite of 'hot'?","options":["cold","warm","cool","heat"],"correct":0},
+{"text":"Synonym of 'fast'?","options":["slow","quick","late","delay"],"correct":1},
+{"text":"Fill: They ___ going","options":["is","am","are","be"],"correct":2},
+{"text":"Correct spelling?","options":["recieve","receive","recive","receve"],"correct":1},
+{"text":"Choose pronoun","options":["he","run","big","quick"],"correct":0},
+
+{"text":"He ___ eating","options":["is","are","am","be"],"correct":0},
+{"text":"We ___ happy","options":["is","am","are","be"],"correct":2},
+{"text":"Choose adverb","options":["quick","quickly","run","blue"],"correct":1},
+{"text":"Opposite of 'good'?","options":["bad","nice","great","fine"],"correct":0},
+{"text":"Plural of 'box'?","options":["boxs","boxes","box","boxies"],"correct":1},
+
+{"text":"Fill: I ___ a student","options":["is","am","are","be"],"correct":1},
+{"text":"Past of 'eat'?","options":["ate","eat","eated","eats"],"correct":0},
+{"text":"Future tense uses?","options":["will","was","is","were"],"correct":0},
+{"text":"Choose conjunction","options":["and","run","blue","quick"],"correct":0},
+{"text":"Fill: She ___ to school","options":["go","goes","going","gone"],"correct":1},
+
+{"text":"Choose preposition","options":["on","run","eat","blue"],"correct":0},
+{"text":"Fill: Book is ___ table","options":["in","on","at","to"],"correct":1},
+{"text":"Opposite of 'early'?","options":["late","fast","quick","soon"],"correct":0},
+{"text":"Synonym of 'smart'?","options":["dull","clever","lazy","slow"],"correct":1},
+{"text":"Choose interjection","options":["wow","run","eat","blue"],"correct":0},
+
+{"text":"Fill: He ___ football","options":["play","plays","playing","played"],"correct":1},
+{"text":"Fill: They ___ cricket","options":["play","plays","playing","played"],"correct":0},
+{"text":"Choose correct sentence","options":["He go","He goes","He going","He gone"],"correct":1},
+{"text":"Choose correct sentence","options":["She eat","She eats","She eating","She ate"],"correct":1},
+{"text":"Opposite of 'strong'?","options":["weak","powerful","solid","hard"],"correct":0},
+
+{"text":"Synonym of 'begin'?","options":["end","start","stop","close"],"correct":1},
+{"text":"Fill: I ___ finished","options":["has","have","had","having"],"correct":1},
+{"text":"Fill: She ___ finished","options":["has","have","had","having"],"correct":0},
+{"text":"Choose adjective","options":["beauty","beautiful","run","eat"],"correct":1},
+{"text":"Choose noun","options":["run","eat","teacher","quick"],"correct":2},
+
+{"text":"Correct spelling","options":["definately","definitely","definate","definitly"],"correct":1},
+{"text":"Fill: It ___ raining","options":["is","are","am","be"],"correct":0},
+{"text":"Fill: We ___ done","options":["has","have","had","having"],"correct":1},
+{"text":"Choose verb","options":["happy","sing","blue","quick"],"correct":1},
+{"text":"Opposite of 'up'?","options":["down","top","high","above"],"correct":0},
+
+{"text":"Synonym of 'angry'?","options":["happy","mad","calm","fine"],"correct":1},
+{"text":"Fill: He ___ gone","options":["has","have","had","having"],"correct":0},
+{"text":"Choose article for 'umbrella'","options":["a","an","the","none"],"correct":1},
+{"text":"Plural of 'man'?","options":["mans","men","man","manes"],"correct":1},
+{"text":"Choose correct sentence","options":["They is here","They are here","They am here","They be here"],"correct":1}
+]

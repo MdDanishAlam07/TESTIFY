@@ -1,0 +1,61 @@
+[
+{"text":"C++ is an extension of?","options":["C","Java","Python","HTML"],"correct":0},
+{"text":"Who developed C++?","options":["Bjarne Stroustrup","Dennis Ritchie","James Gosling","Guido"],"correct":0},
+{"text":"C++ supports?","options":["OOP","Only Procedural","Only Functional","None"],"correct":0},
+{"text":"Which symbol for single comment?","options":["//","#","/*","--"],"correct":0},
+{"text":"Header for I/O?","options":["iostream","stdio.h","math.h","conio.h"],"correct":0},
+
+{"text":"cout used for?","options":["Output","Input","Loop","Condition"],"correct":0},
+{"text":"cin used for?","options":["Input","Output","Loop","Condition"],"correct":0},
+{"text":"Scope resolution operator?","options":["::",".","->","#"],"correct":0},
+{"text":"Keyword for class?","options":["class","struct","object","define"],"correct":0},
+{"text":"Constructor name same as?","options":["Class name","Function","Variable","Object"],"correct":0},
+
+{"text":"Destructor symbol?","options":["~","!","#","@"],"correct":0},
+{"text":"Inheritance means?","options":["Reuse code","Delete code","Run","Compile"],"correct":0},
+{"text":"Polymorphism means?","options":["Many forms","Single","None","Static"],"correct":0},
+{"text":"Encapsulation means?","options":["Data hiding","Showing","Copy","Delete"],"correct":0},
+{"text":"Virtual function for?","options":["Runtime polymorphism","Compile","Loop","None"],"correct":0},
+
+{"text":"Friend function can access?","options":["Private members","Only public","Only protected","None"],"correct":0},
+{"text":"Operator overloading used for?","options":["Custom operators","Loop","Input","Memory"],"correct":0},
+{"text":"Function overloading means?","options":["Same name diff params","Diff name","Same body","None"],"correct":0},
+{"text":"Access specifier private means?","options":["Inside class only","Anywhere","Derived only","None"],"correct":0},
+{"text":"Public means?","options":["Accessible everywhere","Only class","None","Protected"],"correct":0},
+
+{"text":"Protected means?","options":["Class + derived","Only class","Public","None"],"correct":0},
+{"text":"new keyword used for?","options":["Dynamic memory","Delete","Loop","None"],"correct":0},
+{"text":"delete keyword used for?","options":["Free memory","Allocate","Loop","None"],"correct":0},
+{"text":"Reference variable symbol?","options":["&","*","#","@"],"correct":0},
+{"text":"Pointer stores?","options":["Address","Value","Index","None"],"correct":0},
+
+{"text":"Inline function?","options":["Expanded at compile","Runtime","Loop","None"],"correct":0},
+{"text":"Template used for?","options":["Generic programming","Loop","Condition","None"],"correct":0},
+{"text":"Exception handling keyword?","options":["try","loop","if","switch"],"correct":0},
+{"text":"Catch block handles?","options":["Exceptions","Loop","Input","Output"],"correct":0},
+{"text":"Throw used for?","options":["Raise exception","Loop","Input","None"],"correct":0},
+
+{"text":"STL stands for?","options":["Standard Template Library","System Tool Library","Simple Template","None"],"correct":0},
+{"text":"Vector is?","options":["Dynamic array","Static","Pointer","None"],"correct":0},
+{"text":"Stack follows?","options":["LIFO","FIFO","Random","None"],"correct":0},
+{"text":"Queue follows?","options":["FIFO","LIFO","Random","None"],"correct":0},
+{"text":"Map stores?","options":["Key-value","Only key","Only value","None"],"correct":0},
+
+{"text":"String class header?","options":["string","cstring","stdio","None"],"correct":0},
+{"text":"endl used for?","options":["New line","Delete","Loop","None"],"correct":0},
+{"text":"Namespace std used for?","options":["Standard functions","Loop","Memory","None"],"correct":0},
+{"text":"this pointer refers to?","options":["Current object","Class","Function","None"],"correct":0},
+{"text":"Abstract class means?","options":["Has pure virtual","No class","Only object","None"],"correct":0},
+
+{"text":"Pure virtual syntax?","options":["=0","=1","=null","None"],"correct":0},
+{"text":"Multiple inheritance means?","options":["More than one parent","One parent","None","Single"],"correct":0},
+{"text":"File handling header?","options":["fstream","stdio","math","None"],"correct":0},
+{"text":"ofstream used for?","options":["Write file","Read","Delete","None"],"correct":0},
+{"text":"ifstream used for?","options":["Read file","Write","Delete","None"],"correct":0},
+
+{"text":"getline used for?","options":["Read line","Write","Delete","None"],"correct":0},
+{"text":"Static variable means?","options":["Shared","Local","Global","None"],"correct":0},
+{"text":"Const variable means?","options":["Fixed","Changeable","Loop","None"],"correct":0},
+{"text":"Macro defined by?","options":["#define","#include","class","None"],"correct":0},
+{"text":"Main returns?","options":["int","void","float","char"],"correct":0}
+]

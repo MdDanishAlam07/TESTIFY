@@ -1,0 +1,61 @@
+[
+{"text":"Network means?","options":["Connected devices","Single system","Software","None"],"correct":0},
+{"text":"LAN full form?","options":["Local Area Network","Large Area","Line Area","None"],"correct":0},
+{"text":"WAN full form?","options":["Wide Area Network","Wireless Area","World Area","None"],"correct":0},
+{"text":"Internet uses?","options":["TCP/IP","FTP","SMTP","HTTP"],"correct":0},
+{"text":"Router connects?","options":["Networks","Devices","Cables","None"],"correct":0},
+
+{"text":"Switch works on?","options":["Data link layer","Network","Transport","None"],"correct":0},
+{"text":"IP address is?","options":["Unique","Port","Protocol","None"],"correct":0},
+{"text":"IPv4 bits?","options":["32","64","128","16"],"correct":0},
+{"text":"IPv6 bits?","options":["128","64","32","16"],"correct":0},
+{"text":"HTTP used for?","options":["Web","Email","File","None"],"correct":0},
+
+{"text":"SMTP used for?","options":["Email","Web","File","None"],"correct":0},
+{"text":"OSI layers?","options":["7","5","4","3"],"correct":0},
+{"text":"TCP is?","options":["Reliable","Unreliable","Fast","None"],"correct":0},
+{"text":"UDP is?","options":["Unreliable","Reliable","Slow","None"],"correct":0},
+{"text":"MAC address?","options":["Physical","Logical","IP","None"],"correct":0},
+
+{"text":"Ping checks?","options":["Connectivity","Speed","File","None"],"correct":0},
+{"text":"DNS converts?","options":["Name to IP","IP to name","File","None"],"correct":0},
+{"text":"Hub works on?","options":["Physical layer","Data link","Network","None"],"correct":0},
+{"text":"Gateway connects?","options":["Different networks","Same","Devices","None"],"correct":0},
+{"text":"Firewall used for?","options":["Security","Speed","File","None"],"correct":0},
+
+{"text":"Topology means?","options":["Layout","Speed","Protocol","None"],"correct":0},
+{"text":"Bus topology?","options":["Single cable","Ring","Star","None"],"correct":0},
+{"text":"Star topology?","options":["Central hub","Circle","Line","None"],"correct":0},
+{"text":"Ring topology?","options":["Circular","Star","Bus","None"],"correct":0},
+{"text":"Protocol means?","options":["Rules","Devices","Cable","None"],"correct":0},
+
+{"text":"FTP used for?","options":["File transfer","Email","Web","None"],"correct":0},
+{"text":"Telnet used for?","options":["Remote login","File","Web","None"],"correct":0},
+{"text":"Bandwidth means?","options":["Data rate","Speed","Cable","None"],"correct":0},
+{"text":"Latency means?","options":["Delay","Speed","Data","None"],"correct":0},
+{"text":"Packet is?","options":["Data unit","Cable","Device","None"],"correct":0},
+
+{"text":"Frame is?","options":["Data link unit","Network","Transport","None"],"correct":0},
+{"text":"Port number?","options":["Service id","IP","MAC","None"],"correct":0},
+{"text":"HTTP port?","options":["80","21","25","443"],"correct":0},
+{"text":"HTTPS port?","options":["443","80","21","25"],"correct":0},
+{"text":"FTP port?","options":["21","80","25","443"],"correct":0},
+
+{"text":"SMTP port?","options":["25","80","21","443"],"correct":0},
+{"text":"IP class A range?","options":["1-126","128-191","192-223","None"],"correct":0},
+{"text":"Subnet mask used for?","options":["Divide network","Connect","Speed","None"],"correct":0},
+{"text":"VPN means?","options":["Secure network","Fast","Public","None"],"correct":0},
+{"text":"WiFi is?","options":["Wireless","Wired","Cable","None"],"correct":0},
+
+{"text":"Ethernet is?","options":["LAN tech","WAN","Protocol","None"],"correct":0},
+{"text":"ARP used for?","options":["IP to MAC","MAC to IP","File","None"],"correct":0},
+{"text":"ICMP used for?","options":["Error reporting","File","Web","None"],"correct":0},
+{"text":"Repeater used for?","options":["Signal boost","Routing","Switch","None"],"correct":0},
+{"text":"Bridge connects?","options":["LAN segments","WAN","Devices","None"],"correct":0},
+
+{"text":"Cloud computing means?","options":["Internet services","Local","Hardware","None"],"correct":0},
+{"text":"Client-server model?","options":["Service model","Cable","Protocol","None"],"correct":0},
+{"text":"Peer-to-peer means?","options":["Equal nodes","Server","Client","None"],"correct":0},
+{"text":"Data encryption means?","options":["Secure data","Delete","Copy","None"],"correct":0},
+{"text":"Decryption means?","options":["Decode data","Encode","Delete","None"],"correct":0}
+]

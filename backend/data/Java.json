@@ -1,0 +1,61 @@
+[
+  {"text":"Java is?","options":["Compiled","Interpreted","Both","None"],"correct":2},
+  {"text":"Who developed Java?","options":["Dennis Ritchie","James Gosling","Guido van Rossum","Bjarne Stroustrup"],"correct":1},
+  {"text":"Java is platform?","options":["Dependent","Independent","Both","None"],"correct":1},
+  {"text":"JVM stands for?","options":["Java Virtual Machine","Java Variable Method","Java Verified Machine","None"],"correct":0},
+  {"text":"JDK stands for?","options":["Java Development Kit","Java Deployment Kit","Java Debug Kit","None"],"correct":0},
+
+  {"text":"JRE stands for?","options":["Java Runtime Environment","Java Run Engine","Java Runtime Engine","None"],"correct":0},
+  {"text":"Which keyword defines class?","options":["class","define","object","create"],"correct":0},
+  {"text":"Which method is entry point?","options":["main()","start()","run()","init()"],"correct":0},
+  {"text":"main method return type?","options":["void","int","String","None"],"correct":0},
+  {"text":"Which keyword creates object?","options":["new","create","object","init"],"correct":0},
+
+  {"text":"Which keyword inherits class?","options":["extends","implements","inherits","super"],"correct":0},
+  {"text":"Which keyword implements interface?","options":["implements","extends","inherit","super"],"correct":0},
+  {"text":"Which keyword refers current object?","options":["this","self","current","me"],"correct":0},
+  {"text":"Which keyword refers parent?","options":["super","this","parent","base"],"correct":0},
+  {"text":"Constructor name same as?","options":["Class name","Method","Object","Variable"],"correct":0},
+
+  {"text":"Constructor return type?","options":["None","void","int","class"],"correct":0},
+  {"text":"Method overloading?","options":["Same name diff params","Same params","Different name","None"],"correct":0},
+  {"text":"Method overriding?","options":["Redefine parent method","Create method","Delete method","None"],"correct":0},
+  {"text":"Which is compile-time polymorphism?","options":["Overloading","Overriding","Inheritance","None"],"correct":0},
+  {"text":"Which is runtime polymorphism?","options":["Overriding","Overloading","Encapsulation","None"],"correct":0},
+
+  {"text":"Encapsulation means?","options":["Binding data","Breaking data","Copying data","None"],"correct":0},
+  {"text":"Abstraction means?","options":["Hide details","Show details","Delete","None"],"correct":0},
+  {"text":"Inheritance means?","options":["Reuse code","Delete code","Copy code","None"],"correct":0},
+  {"text":"Polymorphism means?","options":["Many forms","One form","No form","None"],"correct":0},
+  {"text":"Access modifier public?","options":["Everywhere","Class only","Package only","None"],"correct":0},
+
+  {"text":"Access modifier private?","options":["Class only","Everywhere","Package","None"],"correct":0},
+  {"text":"Access modifier protected?","options":["Package + subclass","Class only","Everywhere","None"],"correct":0},
+  {"text":"Default access?","options":["Package","Public","Private","Protected"],"correct":0},
+  {"text":"Which is primitive?","options":["int","String","Array","Object"],"correct":0},
+  {"text":"Which is non-primitive?","options":["String","int","float","char"],"correct":0},
+
+  {"text":"Wrapper class of int?","options":["Integer","Int","Number","Wrapper"],"correct":0},
+  {"text":"Which keyword constant?","options":["final","const","static","fix"],"correct":0},
+  {"text":"Static means?","options":["Class level","Object level","Local","None"],"correct":0},
+  {"text":"Final class?","options":["Cannot inherit","Can inherit","Optional","None"],"correct":0},
+  {"text":"Final method?","options":["Cannot override","Can override","Optional","None"],"correct":0},
+
+  {"text":"Interface is?","options":["Abstract","Concrete","Object","None"],"correct":0},
+  {"text":"Abstract class?","options":["Cannot instantiate","Can instantiate","Normal","None"],"correct":0},
+  {"text":"Exception means?","options":["Error event","Loop","Variable","None"],"correct":0},
+  {"text":"Which handles exception?","options":["try","catch","throw","All"],"correct":3},
+  {"text":"Which throws exception?","options":["throw","try","catch","handle"],"correct":0},
+
+  {"text":"Finally block?","options":["Always runs","Never runs","Optional","None"],"correct":0},
+  {"text":"Array index starts from?","options":["0","1","-1","None"],"correct":0},
+  {"text":"Which loop exists?","options":["for","while","do-while","All"],"correct":3},
+  {"text":"String is?","options":["Class","Primitive","Array","None"],"correct":0},
+  {"text":"Which package default?","options":["java.lang","java.util","java.io","None"],"correct":0},
+
+  {"text":"Which collection dynamic?","options":["ArrayList","Array","int","String"],"correct":0},
+  {"text":"Which collection key-value?","options":["HashMap","ArrayList","Set","List"],"correct":0},
+  {"text":"Which collection unique values?","options":["Set","List","Array","Map"],"correct":0},
+  {"text":"Garbage collection?","options":["Auto memory cleanup","Manual","Delete","None"],"correct":0},
+  {"text":"Java supports multithreading?","options":["Yes","No","Partial","None"],"correct":0}
+]

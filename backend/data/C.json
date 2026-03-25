@@ -1,0 +1,61 @@
+[
+{"text":"Who developed C?","options":["Dennis Ritchie","Bjarne","James","Guido"],"correct":0},
+{"text":"C is?","options":["Procedural","OOP","Markup","None"],"correct":0},
+{"text":"Entry function?","options":["main()","start","run","init"],"correct":0},
+{"text":"printf header?","options":["stdio.h","math.h","string.h","conio.h"],"correct":0},
+{"text":"Statement ends with?","options":[";"," :",".",","],"correct":0},
+
+{"text":"Constant keyword?","options":["const","#define","final","static"],"correct":0},
+{"text":"Loop executes once?","options":["do-while","for","while","none"],"correct":0},
+{"text":"Array index starts?","options":["0","1","2","-1"],"correct":0},
+{"text":"Pointer stores?","options":["Address","Value","Index","None"],"correct":0},
+{"text":"Address operator?","options":["&","*","#","@"],"correct":0},
+
+{"text":"Value operator?","options":["*","&","#","@"],"correct":0},
+{"text":"Structure keyword?","options":["struct","class","union","object"],"correct":0},
+{"text":"Integer type?","options":["int","float","char","double"],"correct":0},
+{"text":"Format for int?","options":["%d","%f","%c","%s"],"correct":0},
+{"text":"Input function?","options":["scanf","printf","gets","puts"],"correct":0},
+
+{"text":"Output function?","options":["printf","scanf","gets","puts"],"correct":0},
+{"text":"String input?","options":["gets","scanf","printf","put"],"correct":0},
+{"text":"Loop keyword?","options":["for","if","else","case"],"correct":0},
+{"text":"Conditional keyword?","options":["if","for","while","loop"],"correct":0},
+{"text":"Switch used for?","options":["Multiple choice","Loop","Input","None"],"correct":0},
+
+{"text":"Break used for?","options":["Exit loop","Continue","Input","None"],"correct":0},
+{"text":"Continue means?","options":["Skip iteration","Exit","Input","None"],"correct":0},
+{"text":"Union keyword?","options":["union","struct","class","None"],"correct":0},
+{"text":"File open function?","options":["fopen","open","file","None"],"correct":0},
+{"text":"File close function?","options":["fclose","close","end","None"],"correct":0},
+
+{"text":"EOF means?","options":["End of file","Error","Empty","None"],"correct":0},
+{"text":"Recursion means?","options":["Function calls itself","Loop","Input","None"],"correct":0},
+{"text":"malloc used for?","options":["Dynamic memory","Free","Loop","None"],"correct":0},
+{"text":"free used for?","options":["Free memory","Allocate","Loop","None"],"correct":0},
+{"text":"sizeof gives?","options":["Size","Value","Address","None"],"correct":0},
+
+{"text":"Header for string?","options":["string.h","stdio.h","math.h","None"],"correct":0},
+{"text":"strcmp used for?","options":["Compare string","Copy","Length","None"],"correct":0},
+{"text":"strcpy used for?","options":["Copy string","Compare","Length","None"],"correct":0},
+{"text":"strlen used for?","options":["Length","Copy","Compare","None"],"correct":0},
+{"text":"Pointer declaration?","options":["*","&","#","@"],"correct":0},
+
+{"text":"Global variable scope?","options":["Whole program","Function","Block","None"],"correct":0},
+{"text":"Local variable scope?","options":["Function","Global","File","None"],"correct":0},
+{"text":"Static variable?","options":["Retains value","Temporary","Global","None"],"correct":0},
+{"text":"Preprocessor starts with?","options":["#","$","@","&"],"correct":0},
+{"text":"Macro defined by?","options":["#define","#include","main","None"],"correct":0},
+
+{"text":"Header inclusion?","options":["#include","#define","main","None"],"correct":0},
+{"text":"Infinite loop?","options":["for(;;)","while","if","None"],"correct":0},
+{"text":"Return keyword?","options":["return","exit","stop","None"],"correct":0},
+{"text":"Void means?","options":["No value","Value","Loop","None"],"correct":0},
+{"text":"Character type?","options":["char","int","float","double"],"correct":0},
+
+{"text":"Float type?","options":["float","int","char","double"],"correct":0},
+{"text":"Double type?","options":["double","float","int","char"],"correct":0},
+{"text":"Logical AND?","options":["&&","||","!","&"],"correct":0},
+{"text":"Logical OR?","options":["||","&&","!","|"],"correct":0},
+{"text":"Logical NOT?","options":["!","&&","||","None"],"correct":0}
+]

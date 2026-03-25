@@ -1,0 +1,61 @@
+[
+  {"text":"CSS stands for?","options":["Cascading Style Sheets","Creative Style System","Computer Style Sheet","Color Style Sheet"],"correct":0},
+  {"text":"CSS is used for?","options":["Styling","Structure","Logic","Database"],"correct":0},
+  {"text":"Which tag is used for internal CSS?","options":["<style>","<css>","<link>","<script>"],"correct":0},
+  {"text":"Which attribute links external CSS?","options":["href","src","link","style"],"correct":0},
+  {"text":"Which selector selects all elements?","options":["*",".","#","all"],"correct":0},
+
+  {"text":"Which selector selects id?","options":["#",".","*","@"],"correct":0},
+  {"text":"Which selector selects class?","options":[".","#","*","@"],"correct":0},
+  {"text":"Which property sets text color?","options":["color","font-color","text-color","bgcolor"],"correct":0},
+  {"text":"Which property sets background color?","options":["background-color","bgcolor","color","background"],"correct":0},
+  {"text":"Which property sets font size?","options":["font-size","text-size","size","font"],"correct":0},
+
+  {"text":"Which property sets font family?","options":["font-family","font-style","font-type","family"],"correct":0},
+  {"text":"Which property makes text bold?","options":["font-weight","font-style","text-bold","weight"],"correct":0},
+  {"text":"Which property italic text?","options":["font-style","font-weight","style","italic"],"correct":0},
+  {"text":"Which property aligns text?","options":["text-align","align","text-position","position"],"correct":0},
+  {"text":"Which value centers text?","options":["center","middle","align-center","none"],"correct":0},
+
+  {"text":"Which property sets margin?","options":["margin","padding","space","border"],"correct":0},
+  {"text":"Which property sets padding?","options":["padding","margin","space","border"],"correct":0},
+  {"text":"Which property sets border?","options":["border","outline","frame","line"],"correct":0},
+  {"text":"Which property rounds border?","options":["border-radius","radius","round","curve"],"correct":0},
+  {"text":"Which property sets width?","options":["width","size","length","area"],"correct":0},
+
+  {"text":"Which property sets height?","options":["height","size","length","area"],"correct":0},
+  {"text":"Display block means?","options":["Full width","Inline","Hidden","None"],"correct":0},
+  {"text":"Display inline means?","options":["Same line","Full width","Hidden","None"],"correct":0},
+  {"text":"Display none means?","options":["Hidden","Visible","Block","Inline"],"correct":0},
+  {"text":"Which display flex?","options":["flex","block","inline","grid"],"correct":0},
+
+  {"text":"Flexbox used for?","options":["Layout","Color","Font","Border"],"correct":0},
+  {"text":"Main axis in flex?","options":["Row","Column","Axis","Grid"],"correct":0},
+  {"text":"Flex direction property?","options":["flex-direction","direction","flex","axis"],"correct":0},
+  {"text":"Justify content does?","options":["Align main axis","Align cross axis","Set color","None"],"correct":0},
+  {"text":"Align items does?","options":["Align cross axis","Align main axis","Color","None"],"correct":0},
+
+  {"text":"Grid used for?","options":["Layout","Color","Font","Border"],"correct":0},
+  {"text":"Grid columns property?","options":["grid-template-columns","grid-cols","columns","grid-column"],"correct":0},
+  {"text":"Position absolute means?","options":["Relative to parent","Relative to itself","Fixed","None"],"correct":0},
+  {"text":"Position relative means?","options":["Relative to itself","Parent","Screen","None"],"correct":0},
+  {"text":"Position fixed means?","options":["Fixed to screen","Parent","Relative","None"],"correct":0},
+
+  {"text":"Z-index used for?","options":["Stack order","Color","Font","Size"],"correct":0},
+  {"text":"Overflow hidden means?","options":["Hide overflow","Show overflow","Scroll","None"],"correct":0},
+  {"text":"Overflow scroll means?","options":["Scroll content","Hide","Show","None"],"correct":0},
+  {"text":"Opacity property?","options":["Transparency","Color","Size","Font"],"correct":0},
+  {"text":"Box model includes?","options":["Margin","Padding","Border","All"],"correct":3},
+
+  {"text":"Margin outside?","options":["Yes","No","Inside","None"],"correct":0},
+  {"text":"Padding inside?","options":["Yes","No","Outside","None"],"correct":0},
+  {"text":"Border between?","options":["Padding & margin","Margin & body","Padding & body","None"],"correct":0},
+  {"text":"Which pseudo-class hover?","options":[":hover",":click",":active",":focus"],"correct":0},
+  {"text":"Which pseudo-class active?","options":[":active",":hover",":focus",":visited"],"correct":0},
+
+  {"text":"Which pseudo-class visited?","options":[":visited",":hover",":active",":focus"],"correct":0},
+  {"text":"Which property shadow?","options":["box-shadow","shadow","text-shadow","drop-shadow"],"correct":0},
+  {"text":"Text shadow property?","options":["text-shadow","box-shadow","shadow","font-shadow"],"correct":0},
+  {"text":"Transition used for?","options":["Animation","Color","Font","Layout"],"correct":0},
+  {"text":"Animation property?","options":["animation","transition","move","effect"],"correct":0}
+]

@@ -1,0 +1,61 @@
+[
+  {"text":"What does HTML stand for?","options":["Hyper Trainer Marking Language","Hyper Text Markup Language","Hyper Text Marketing Language","High Text Markup Language"],"correct":1},
+  {"text":"Which tag is used to create a hyperlink?","options":["<a>","<link>","<href>","<hyper>"],"correct":0},
+  {"text":"Which tag is used for inserting an image?","options":["<img>","<image>","<src>","<pic>"],"correct":0},
+  {"text":"Which attribute specifies image path?","options":["src","href","alt","link"],"correct":0},
+  {"text":"Which tag is used for paragraph?","options":["<p>","<para>","<text>","<h1>"],"correct":0},
+
+  {"text":"Which tag is largest heading?","options":["<h6>","<h1>","<head>","<heading>"],"correct":1},
+  {"text":"Which tag is smallest heading?","options":["<h6>","<h1>","<small>","<tiny>"],"correct":0},
+  {"text":"Which tag is used for line break?","options":["<br>","<break>","<lb>","<hr>"],"correct":0},
+  {"text":"Which tag creates horizontal line?","options":["<hr>","<line>","<br>","<hl>"],"correct":0},
+  {"text":"Which tag is used for bold text?","options":["<b>","<strong>","Both","None"],"correct":2},
+
+  {"text":"Which tag is used for italic text?","options":["<i>","<italic>","<em>","Both"],"correct":3},
+  {"text":"Which tag defines a table?","options":["<table>","<tr>","<td>","<th>"],"correct":0},
+  {"text":"Which tag defines table row?","options":["<tr>","<td>","<th>","<row>"],"correct":0},
+  {"text":"Which tag defines table data?","options":["<td>","<tr>","<th>","<data>"],"correct":0},
+  {"text":"Which tag defines table header?","options":["<th>","<td>","<tr>","<header>"],"correct":0},
+
+  {"text":"Which tag is used for list?","options":["<ul>","<li>","<ol>","All"],"correct":3},
+  {"text":"Which tag defines unordered list?","options":["<ul>","<ol>","<li>","<list>"],"correct":0},
+  {"text":"Which tag defines ordered list?","options":["<ol>","<ul>","<li>","<order>"],"correct":0},
+  {"text":"Which tag defines list item?","options":["<li>","<ul>","<ol>","<item>"],"correct":0},
+  {"text":"Which attribute gives tooltip?","options":["title","alt","name","value"],"correct":0},
+
+  {"text":"Which attribute is for link destination?","options":["href","src","link","url"],"correct":0},
+  {"text":"Which tag is used for forms?","options":["<form>","<input>","<label>","<submit>"],"correct":0},
+  {"text":"Which tag creates input field?","options":["<input>","<field>","<textbox>","<text>"],"correct":0},
+  {"text":"Which input type for password?","options":["password","text","pass","secure"],"correct":0},
+  {"text":"Which input type for email?","options":["email","mail","text","input"],"correct":0},
+
+  {"text":"Which tag is used for button?","options":["<button>","<btn>","<click>","<input>"],"correct":0},
+  {"text":"Which attribute makes input required?","options":["required","must","validate","needed"],"correct":0},
+  {"text":"Which tag is used for label?","options":["<label>","<tag>","<form>","<name>"],"correct":0},
+  {"text":"Which tag is used for dropdown?","options":["<select>","<option>","<dropdown>","<list>"],"correct":0},
+  {"text":"Which tag defines option in dropdown?","options":["<option>","<select>","<item>","<choice>"],"correct":0},
+
+  {"text":"Which tag is used for textarea?","options":["<textarea>","<input>","<text>","<area>"],"correct":0},
+  {"text":"Which tag is used for iframe?","options":["<iframe>","<frame>","<embed>","<object>"],"correct":0},
+  {"text":"Which tag is used for audio?","options":["<audio>","<sound>","<music>","<mp3>"],"correct":0},
+  {"text":"Which tag is used for video?","options":["<video>","<movie>","<media>","<mp4>"],"correct":0},
+  {"text":"Which tag is used for division?","options":["<div>","<span>","<section>","<box>"],"correct":0},
+
+  {"text":"Which tag is inline element?","options":["<span>","<div>","<section>","<article>"],"correct":0},
+  {"text":"Which tag is block element?","options":["<div>","<span>","<a>","<img>"],"correct":0},
+  {"text":"Which tag is semantic?","options":["<header>","<footer>","<article>","All"],"correct":3},
+  {"text":"Which tag defines navigation?","options":["<nav>","<menu>","<link>","<navigate>"],"correct":0},
+  {"text":"Which tag defines footer?","options":["<footer>","<bottom>","<end>","<foot>"],"correct":0},
+
+  {"text":"Which tag defines header?","options":["<header>","<head>","<top>","<heading>"],"correct":0},
+  {"text":"Which tag defines section?","options":["<section>","<div>","<area>","<block>"],"correct":0},
+  {"text":"Which tag defines article?","options":["<article>","<post>","<blog>","<content>"],"correct":0},
+  {"text":"Which tag defines aside?","options":["<aside>","<side>","<extra>","<note>"],"correct":0},
+  {"text":"Which tag defines main content?","options":["<main>","<body>","<content>","<center>"],"correct":0},
+
+  {"text":"Which tag defines title?","options":["<title>","<head>","<meta>","<header>"],"correct":0},
+  {"text":"Which tag defines metadata?","options":["<meta>","<data>","<info>","<head>"],"correct":0},
+  {"text":"Which tag links CSS?","options":["<link>","<style>","<css>","<script>"],"correct":0},
+  {"text":"Which tag embeds CSS internally?","options":["<style>","<css>","<link>","<script>"],"correct":0},
+  {"text":"Which tag embeds JS?","options":["<script>","<js>","<code>","<embed>"],"correct":0}
+]

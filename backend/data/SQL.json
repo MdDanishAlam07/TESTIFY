@@ -1,0 +1,61 @@
+[
+  {"text":"What does SQL stand for?","options":["Structured Query Language","Simple Query Language","Standard Query Logic","None"],"correct":0},
+  {"text":"Which SQL command retrieves data?","options":["SELECT","GET","FETCH","SHOW"],"correct":0},
+  {"text":"Which clause filters records?","options":["WHERE","FILTER","HAVING","ORDER"],"correct":0},
+  {"text":"Which keyword sorts results?","options":["ORDER BY","SORT","GROUP","ARRANGE"],"correct":0},
+  {"text":"Which keyword removes duplicates?","options":["DISTINCT","UNIQUE","REMOVE","FILTER"],"correct":0},
+
+  {"text":"Which command inserts data?","options":["INSERT","ADD","PUT","CREATE"],"correct":0},
+  {"text":"Which command updates data?","options":["UPDATE","MODIFY","CHANGE","SET"],"correct":0},
+  {"text":"Which command deletes data?","options":["DELETE","REMOVE","DROP","CLEAR"],"correct":0},
+  {"text":"Which command removes table?","options":["DROP","DELETE","REMOVE","CLEAR"],"correct":0},
+  {"text":"Which command creates table?","options":["CREATE","MAKE","BUILD","NEW"],"correct":0},
+
+  {"text":"Primary key is?","options":["Unique","Duplicate","Null","Optional"],"correct":0},
+  {"text":"Foreign key is?","options":["Link between tables","Primary key","Unique key","None"],"correct":0},
+  {"text":"Which join returns all rows?","options":["FULL JOIN","INNER","LEFT","RIGHT"],"correct":0},
+  {"text":"Which join returns matching rows?","options":["INNER JOIN","FULL","LEFT","RIGHT"],"correct":0},
+  {"text":"LEFT JOIN returns?","options":["Left table + match","Only match","Right table","None"],"correct":0},
+
+  {"text":"Aggregate function example?","options":["SUM","ADD","PLUS","TOTAL"],"correct":0},
+  {"text":"COUNT() does?","options":["Counts rows","Adds values","Finds max","None"],"correct":0},
+  {"text":"MAX() returns?","options":["Highest value","Lowest","Average","Count"],"correct":0},
+  {"text":"MIN() returns?","options":["Lowest value","Highest","Average","Count"],"correct":0},
+  {"text":"AVG() returns?","options":["Average","Sum","Count","Max"],"correct":0},
+
+  {"text":"GROUP BY used for?","options":["Grouping rows","Sorting","Filtering","Joining"],"correct":0},
+  {"text":"HAVING used for?","options":["Filter groups","Filter rows","Sort","Join"],"correct":0},
+  {"text":"LIKE used for?","options":["Pattern matching","Sorting","Grouping","Joining"],"correct":0},
+  {"text":"Wildcard for multiple chars?","options":["%","_","*","#"],"correct":0},
+  {"text":"Wildcard for single char?","options":["_","%","*","#"],"correct":0},
+
+  {"text":"NULL means?","options":["No value","Zero","Blank string","False"],"correct":0},
+  {"text":"IS NULL used for?","options":["Check null","Check zero","Check empty","Check false"],"correct":0},
+  {"text":"NOT NULL means?","options":["Must have value","Optional","Zero","None"],"correct":0},
+  {"text":"UNIQUE constraint?","options":["No duplicate","Allow duplicate","Null allowed","None"],"correct":0},
+  {"text":"DEFAULT value?","options":["Auto value","Manual","Null","Random"],"correct":0},
+
+  {"text":"ALTER used for?","options":["Modify table","Delete table","Create table","Insert"],"correct":0},
+  {"text":"TRUNCATE does?","options":["Delete all rows","Delete table","Insert","Update"],"correct":0},
+  {"text":"Difference DELETE vs TRUNCATE?","options":["TRUNCATE faster","DELETE faster","Same","None"],"correct":0},
+  {"text":"Index used for?","options":["Speed up search","Delete data","Insert","Sort"],"correct":0},
+  {"text":"View is?","options":["Virtual table","Real table","Index","DB"],"correct":0},
+
+  {"text":"Which normal form removes redundancy?","options":["3NF","1NF","2NF","BCNF"],"correct":0},
+  {"text":"1NF requires?","options":["Atomic values","Keys","Joins","Index"],"correct":0},
+  {"text":"2NF requires?","options":["No partial dependency","Atomic","No transitive","None"],"correct":0},
+  {"text":"3NF requires?","options":["No transitive dependency","Atomic","Keys","None"],"correct":0},
+  {"text":"BCNF is?","options":["Stronger 3NF","Weaker","Same","None"],"correct":0},
+
+  {"text":"Transaction ensures?","options":["ACID","FAST","JOIN","INDEX"],"correct":0},
+  {"text":"A in ACID?","options":["Atomicity","Accuracy","Access","Action"],"correct":0},
+  {"text":"C in ACID?","options":["Consistency","Control","Check","Correct"],"correct":0},
+  {"text":"I in ACID?","options":["Isolation","Input","Index","Insert"],"correct":0},
+  {"text":"D in ACID?","options":["Durability","Data","Delete","Done"],"correct":0},
+
+  {"text":"Commit does?","options":["Save changes","Undo","Delete","Insert"],"correct":0},
+  {"text":"Rollback does?","options":["Undo changes","Save","Delete","Insert"],"correct":0},
+  {"text":"Subquery is?","options":["Query inside query","Join","Index","View"],"correct":0},
+  {"text":"Union does?","options":["Combine results","Split","Delete","Insert"],"correct":0},
+  {"text":"Union vs Union All?","options":["Union removes duplicates","Same","Union faster","None"],"correct":0}
+]

@@ -1,0 +1,61 @@
+[
+  {"text":"What does OOP stand for?","options":["Object Oriented Programming","Object Oriented Process","Only Object Programming","None"],"correct":0},
+  {"text":"Which is not an OOP principle?","options":["Encapsulation","Inheritance","Polymorphism","Compilation"],"correct":3},
+  {"text":"What is an object?","options":["Instance of class","Function","Variable","Loop"],"correct":0},
+  {"text":"What is a class?","options":["Blueprint of object","Function","Variable","Loop"],"correct":0},
+  {"text":"Which keyword creates object (general)?","options":["new","create","object","init"],"correct":0},
+
+  {"text":"Encapsulation means?","options":["Binding data and methods","Breaking data","Copying data","Deleting data"],"correct":0},
+  {"text":"Inheritance means?","options":["Reuse properties","Delete properties","Create new properties","None"],"correct":0},
+  {"text":"Polymorphism means?","options":["Many forms","One form","No form","None"],"correct":0},
+  {"text":"Abstraction means?","options":["Hide details","Show details","Delete details","Copy details"],"correct":0},
+  {"text":"Which supports OOP?","options":["Java","C++","Python","All"],"correct":3},
+
+  {"text":"Which is access modifier?","options":["public","private","protected","All"],"correct":3},
+  {"text":"Private means?","options":["Accessible inside class","Everywhere","Outside class","None"],"correct":0},
+  {"text":"Public means?","options":["Accessible everywhere","Inside only","Outside only","None"],"correct":0},
+  {"text":"Protected means?","options":["Class + derived","Only class","Only outside","None"],"correct":0},
+  {"text":"Constructor is?","options":["Special method","Variable","Loop","Function"],"correct":0},
+
+  {"text":"Constructor purpose?","options":["Initialize object","Delete object","Print object","None"],"correct":0},
+  {"text":"Destructor is?","options":["Destroys object","Creates object","Copies object","None"],"correct":0},
+  {"text":"Method overloading?","options":["Same name diff params","Same params","Different name","None"],"correct":0},
+  {"text":"Method overriding?","options":["Redefine parent method","Create method","Delete method","None"],"correct":0},
+  {"text":"Which is compile-time polymorphism?","options":["Overloading","Overriding","Inheritance","None"],"correct":0},
+
+  {"text":"Which is runtime polymorphism?","options":["Overriding","Overloading","Encapsulation","None"],"correct":0},
+  {"text":"Single inheritance?","options":["One parent","Multiple parents","No parent","Many classes"],"correct":0},
+  {"text":"Multiple inheritance?","options":["Multiple parents","One parent","No parent","None"],"correct":0},
+  {"text":"Multilevel inheritance?","options":["Chain inheritance","Multiple parents","Single level","None"],"correct":0},
+  {"text":"Hierarchical inheritance?","options":["One parent many children","Many parents one child","Chain","None"],"correct":0},
+
+  {"text":"Hybrid inheritance?","options":["Combination","Single","Multiple","None"],"correct":0},
+  {"text":"Interface is?","options":["Abstract class","Concrete class","Object","Function"],"correct":0},
+  {"text":"Abstract class?","options":["Cannot instantiate","Can instantiate","Normal class","None"],"correct":0},
+  {"text":"Encapsulation achieved by?","options":["Private variables","Public variables","Global variables","None"],"correct":0},
+  {"text":"Getter method?","options":["Access value","Set value","Delete value","None"],"correct":0},
+
+  {"text":"Setter method?","options":["Set value","Get value","Delete value","None"],"correct":0},
+  {"text":"this keyword refers?","options":["Current object","Parent","Class","None"],"correct":0},
+  {"text":"super keyword refers?","options":["Parent class","Child class","Object","None"],"correct":0},
+  {"text":"Static method?","options":["Belongs to class","Belongs to object","Both","None"],"correct":0},
+  {"text":"Final keyword?","options":["Cannot change","Can change","Optional","None"],"correct":0},
+
+  {"text":"Class variable?","options":["Shared by all objects","Unique per object","Local","None"],"correct":0},
+  {"text":"Instance variable?","options":["Unique per object","Shared","Global","None"],"correct":0},
+  {"text":"Object creation allocates?","options":["Memory","CPU","Disk","None"],"correct":0},
+  {"text":"Association is?","options":["Relationship between objects","Inheritance","Polymorphism","None"],"correct":0},
+  {"text":"Aggregation is?","options":["Weak association","Strong","None","Copy"],"correct":0},
+
+  {"text":"Composition is?","options":["Strong association","Weak","None","Copy"],"correct":0},
+  {"text":"Coupling means?","options":["Dependency","Independence","Isolation","None"],"correct":0},
+  {"text":"Cohesion means?","options":["Relatedness","Unrelated","Random","None"],"correct":0},
+  {"text":"High cohesion means?","options":["Better design","Bad design","Slow","None"],"correct":0},
+  {"text":"Low coupling means?","options":["Better design","Bad","Slow","None"],"correct":0},
+
+  {"text":"Overriding requires?","options":["Inheritance","Encapsulation","Abstraction","None"],"correct":0},
+  {"text":"Abstract method?","options":["No body","Has body","Optional","None"],"correct":0},
+  {"text":"Interface methods are?","options":["Abstract","Concrete","Static","None"],"correct":0},
+  {"text":"Object lifecycle?","options":["Create-use-destroy","Only create","Only destroy","None"],"correct":0},
+  {"text":"Main goal of OOP?","options":["Modularity","Speed","Memory","None"],"correct":0}
+]

@@ -1,0 +1,61 @@
+[
+  {"text":"JavaScript is?","options":["Programming language","Markup language","Styling language","Database"],"correct":0},
+  {"text":"Which company developed JavaScript?","options":["Microsoft","Netscape","Google","IBM"],"correct":1},
+  {"text":"Which keyword declares variable?","options":["var","int","string","define"],"correct":0},
+  {"text":"Which keyword has block scope?","options":["let","var","define","const"],"correct":0},
+  {"text":"Which keyword creates constant?","options":["const","let","var","constant"],"correct":0},
+
+  {"text":"Which symbol for single-line comment?","options":["//","#","<!-- -->","**"],"correct":0},
+  {"text":"Which symbol for multi-line comment?","options":["/* */","//","#","<!-- -->"],"correct":0},
+  {"text":"Which function prints in console?","options":["console.log()","print()","echo()","write()"],"correct":0},
+  {"text":"Which operator for equality (strict)?","options":["===","==","=","!="],"correct":0},
+  {"text":"Which operator checks type + value?","options":["===","==","=","!="],"correct":0},
+
+  {"text":"Which data type is NOT primitive?","options":["Object","String","Number","Boolean"],"correct":0},
+  {"text":"Which keyword defines function?","options":["function","def","fun","method"],"correct":0},
+  {"text":"Arrow function syntax?","options":["=>","->","=>=","==>"],"correct":0},
+  {"text":"Which keyword returns value?","options":["return","give","back","send"],"correct":0},
+  {"text":"Which loop repeats?","options":["for","loop","repeat","iterate"],"correct":0},
+
+  {"text":"Which loop checks condition first?","options":["while","do while","for","loop"],"correct":0},
+  {"text":"Which loop runs at least once?","options":["do while","while","for","loop"],"correct":0},
+  {"text":"Which keyword stops loop?","options":["break","stop","exit","end"],"correct":0},
+  {"text":"Which keyword skips iteration?","options":["continue","skip","pass","next"],"correct":0},
+  {"text":"Which is array?","options":["[]","{}","()","<>"],"correct":0},
+
+  {"text":"Which method adds element?","options":["push()","add()","append()","insert()"],"correct":0},
+  {"text":"Which method removes last element?","options":["pop()","remove()","delete()","shift()"],"correct":0},
+  {"text":"Which method removes first element?","options":["shift()","pop()","remove()","delete()"],"correct":0},
+  {"text":"Which method adds at start?","options":["unshift()","push()","insert()","add()"],"correct":0},
+  {"text":"Which method finds length?","options":["length","size()","count()","len()"],"correct":0},
+
+  {"text":"Which object represents browser?","options":["window","document","screen","navigator"],"correct":0},
+  {"text":"Which object represents HTML?","options":["document","window","body","html"],"correct":0},
+  {"text":"DOM stands for?","options":["Document Object Model","Data Object Model","Document Order Model","None"],"correct":0},
+  {"text":"Which method selects element by id?","options":["getElementById","querySelector","getElement","find"],"correct":0},
+  {"text":"Which method selects all elements?","options":["querySelectorAll","getAll","selectAll","findAll"],"correct":0},
+
+  {"text":"Event means?","options":["User action","Function","Loop","Variable"],"correct":0},
+  {"text":"Which event on click?","options":["onclick","onpress","onhit","onchange"],"correct":0},
+  {"text":"Which event on change?","options":["onchange","onclick","oninput","onload"],"correct":0},
+  {"text":"Which event on load?","options":["onload","onstart","onready","oninit"],"correct":0},
+  {"text":"Which keyword for async?","options":["async","await","promise","all"],"correct":0},
+
+  {"text":"Promise represents?","options":["Future value","Past value","Current value","None"],"correct":0},
+  {"text":"Which method handles success?","options":["then()","catch()","finally()","done()"],"correct":0},
+  {"text":"Which method handles error?","options":["catch()","then()","error()","fail()"],"correct":0},
+  {"text":"Which method always runs?","options":["finally()","then()","catch()","done()"],"correct":0},
+  {"text":"JSON stands for?","options":["JavaScript Object Notation","Java Source Object Notation","JS Object Naming","None"],"correct":0},
+
+  {"text":"Which method converts JSON to object?","options":["JSON.parse()","JSON.stringify()","JSON.convert()","JSON.toObj()"],"correct":0},
+  {"text":"Which method converts object to JSON?","options":["JSON.stringify()","JSON.parse()","JSON.convert()","JSON.toStr()"],"correct":0},
+  {"text":"Local storage stores?","options":["Data in browser","Server data","Cache","Cookies"],"correct":0},
+  {"text":"Which method sets local storage?","options":["setItem()","getItem()","store()","save()"],"correct":0},
+  {"text":"Which method gets local storage?","options":["getItem()","setItem()","fetch()","read()"],"correct":0},
+
+  {"text":"Closure means?","options":["Function with scope","Loop","Variable","Object"],"correct":0},
+  {"text":"Hoisting means?","options":["Move declarations up","Delete code","Run code","Compile"],"correct":0},
+  {"text":"NaN means?","options":["Not a Number","Null value","Empty","Undefined"],"correct":0},
+  {"text":"Undefined means?","options":["Declared not assigned","Null","Zero","False"],"correct":0},
+  {"text":"Null means?","options":["Empty value","Undefined","Zero","False"],"correct":0}
+]
