@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import axios from '../api/axiosConfig';
-import '../styles/exam.css'; 
+import '../styles/exam.css';
 
 const ExamPage = () => {
   const { examId } = useParams();
@@ -10,18 +10,17 @@ const ExamPage = () => {
   const [questions, setQuestions] = useState([]);
   const [answers, setAnswers] = useState({});
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(3600); 
+  const [timeLeft, setTimeLeft] = useState(3600);
   const [submitted, setSubmitted] = useState(false);
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(true);
 
-  
+  // Fetch questions
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
         const res = await axios.get(`/exams/${examId}/questions/`);
         setQuestions(res.data);
-       
         setAnswers({});
         setLoading(false);
       } catch (err) {
@@ -32,7 +31,7 @@ const ExamPage = () => {
     fetchQuestions();
   }, [examId, navigate]);
 
-
+  // Timer
   useEffect(() => {
     if (submitted || loading) return;
     const timer = setInterval(() => {
@@ -59,21 +58,16 @@ const ExamPage = () => {
   };
 
   const goNext = () => {
-    if (currentIndex < questions.length - 1) {
-      setCurrentIndex(currentIndex + 1);
-    }
+    if (currentIndex < questions.length - 1) setCurrentIndex(currentIndex + 1);
   };
 
   const goPrev = () => {
-    if (currentIndex > 0) {
-      setCurrentIndex(currentIndex - 1);
-    }
+    if (currentIndex > 0) setCurrentIndex(currentIndex - 1);
   };
 
   const handleSubmit = async () => {
     if (submitted) return;
     setSubmitted(true);
-
     const payload = {
       exam_id: examId,
       answers: Object.entries(answers).map(([qid, optId]) => ({
@@ -81,7 +75,6 @@ const ExamPage = () => {
         option_id: optId,
       })),
     };
-
     try {
       const res = await axios.post('/results/submit/', payload);
       const score = res.data.score;
@@ -96,6 +89,7 @@ const ExamPage = () => {
   };
 
   if (loading) return <div className="exam-container">Loading questions...</div>;
+
   if (submitted && result) {
     return (
       <div className="exam-container result-container">

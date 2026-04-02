@@ -1,0 +1,61 @@
+[
+{"text":"2 + 3 = ?","options":["4","5","6","7"],"correct":1},
+{"text":"5 × 6 = ?","options":["30","20","25","35"],"correct":0},
+{"text":"12 ÷ 4 = ?","options":["2","4","3","6"],"correct":2},
+{"text":"Square of 5?","options":["20","30","25","15"],"correct":2},
+{"text":"Cube of 3?","options":["6","9","27","18"],"correct":2},
+
+{"text":"√16 = ?","options":["2","8","6","4"],"correct":3},
+{"text":"10% of 200 = ?","options":["10","20","30","40"],"correct":1},
+{"text":"15 + 25 = ?","options":["35","45","40","50"],"correct":2},
+{"text":"7 × 8 = ?","options":["54","56","64","48"],"correct":1},
+{"text":"9² = ?","options":["81","72","90","99"],"correct":0},
+
+{"text":"100 ÷ 5 = ?","options":["10","15","20","25"],"correct":2},
+{"text":"LCM of 4 and 6?","options":["10","12","24","6"],"correct":1},
+{"text":"HCF of 8 and 12?","options":["2","4","6","8"],"correct":1},
+{"text":"1/2 + 1/2 = ?","options":["1","2","0","1/2"],"correct":0},
+{"text":"3/4 of 20?","options":["10","15","20","5"],"correct":1},
+
+{"text":"Perimeter of square (side 4)?","options":["12","14","16","18"],"correct":2},
+{"text":"Area of square (side 5)?","options":["20","25","30","35"],"correct":1},
+{"text":"Area of rectangle (5×3)?","options":["8","15","10","20"],"correct":1},
+{"text":"Perimeter of rectangle (5,3)?","options":["16","20","15","10"],"correct":0},
+{"text":"Value of π approx?","options":["2.14","3.14","4.13","3.41"],"correct":1},
+
+{"text":"2³ = ?","options":["6","8","9","12"],"correct":1},
+{"text":"7 + 9 = ?","options":["14","15","16","17"],"correct":2},
+{"text":"18 - 5 = ?","options":["12","13","14","15"],"correct":1},
+{"text":"20% of 50?","options":["5","10","15","20"],"correct":1},
+{"text":"25 × 4 = ?","options":["50","75","100","125"],"correct":2},
+
+{"text":"√25 = ?","options":["3","4","5","6"],"correct":2},
+{"text":"6² = ?","options":["30","36","42","48"],"correct":1},
+{"text":"Cube of 4?","options":["16","64","32","24"],"correct":1},
+{"text":"1/4 of 100?","options":["20","30","25","40"],"correct":2},
+{"text":"5/5 = ?","options":["0","1","5","10"],"correct":1},
+
+{"text":"12 × 12 = ?","options":["124","144","132","142"],"correct":1},
+{"text":"144 ÷ 12 = ?","options":["10","11","12","13"],"correct":2},
+{"text":"15² = ?","options":["200","225","250","275"],"correct":1},
+{"text":"10³ = ?","options":["100","500","1000","2000"],"correct":2},
+{"text":"Sum of angles of triangle?","options":["90°","180°","270°","360°"],"correct":1},
+
+{"text":"Right angle = ?","options":["45°","60°","90°","120°"],"correct":2},
+{"text":"Straight angle = ?","options":["90°","180°","270°","360°"],"correct":1},
+{"text":"Complementary angles sum?","options":["90°","180°","270°","360°"],"correct":0},
+{"text":"Supplementary angles sum?","options":["90°","180°","270°","360°"],"correct":1},
+{"text":"Prime number?","options":["4","6","7","8"],"correct":2},
+
+{"text":"Even number?","options":["3","5","7","8"],"correct":3},
+{"text":"Odd number?","options":["2","4","6","9"],"correct":3},
+{"text":"Binary of 2?","options":["10","01","11","00"],"correct":0},
+{"text":"Hex of 10?","options":["A","B","C","D"],"correct":0},
+{"text":"0 factorial?","options":["0","1","Undefined","2"],"correct":1},
+
+{"text":"Value of 2+2×2?","options":["6","8","4","10"],"correct":0},
+{"text":"(3+2)×2 = ?","options":["10","8","12","6"],"correct":0},
+{"text":"5³ = ?","options":["25","75","125","100"],"correct":2},
+{"text":"√81 = ?","options":["8","9","7","6"],"correct":1},
+{"text":"50% of 80?","options":["20","30","40","50"],"correct":2}
+]

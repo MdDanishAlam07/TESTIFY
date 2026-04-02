@@ -9,19 +9,34 @@ const Register = () => {
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
   const [role, setRole] = useState('student');
+  const [profilePhoto, setProfilePhoto] = useState(null);
   const [error, setError] = useState('');
   const navigate = useNavigate();
+
+  const handleFileChange = (e) => {
+    setProfilePhoto(e.target.files[0]);
+  };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setError('');
+
+    if (role === 'student' && !profilePhoto) {
+      setError('Please upload a photo.');
+      return;
+    }
+
+    const formData = new FormData();
+    formData.append('email', email);
+    formData.append('password', password);
+    formData.append('role', role);
+    formData.append('first_name', firstName);
+    formData.append('last_name', lastName);
+    if (profilePhoto) formData.append('profile_photo', profilePhoto);
+
     try {
-      await axios.post('/auth/register/', {
-        email,
-        password,
-        role,
-        first_name: firstName,
-        last_name: lastName
+      await axios.post('/auth/register/', formData, {
+        headers: { 'Content-Type': 'multipart/form-data' }
       });
       navigate('/login');
     } catch (err) {
@@ -114,6 +129,18 @@ const Register = () => {
               </label>
             </div>
           </div>
+
+          {role === 'student' && (
+            <div className="input-group">
+              <label>PROFILE PHOTO</label>
+              <input
+                type="file"
+                accept="image/*"
+                onChange={handleFileChange}
+                required
+              />
+            </div>
+          )}
 
           {error && <div className="error-message">{error}</div>}
 
