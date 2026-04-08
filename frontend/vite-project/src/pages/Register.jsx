@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import axios from '../api/axiosConfig';
+import WebcamCapture from '../components/WebcamCapture';
 import '../styles/global.css';
 
 const Register = () => {
@@ -10,19 +11,21 @@ const Register = () => {
   const [lastName, setLastName] = useState('');
   const [role, setRole] = useState('student');
   const [profilePhoto, setProfilePhoto] = useState(null);
+  const [cameraError, setCameraError] = useState('');
   const [error, setError] = useState('');
   const navigate = useNavigate();
 
-  const handleFileChange = (e) => {
-    setProfilePhoto(e.target.files[0]);
+  const handlePhotoCapture = (file) => {
+    setProfilePhoto(file);
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setError('');
+    setCameraError('');
 
     if (role === 'student' && !profilePhoto) {
-      setError('Please upload a photo.');
+      setError('Please capture a photo using the webcam.');
       return;
     }
 
@@ -132,13 +135,10 @@ const Register = () => {
 
           {role === 'student' && (
             <div className="input-group">
-              <label>PROFILE PHOTO</label>
-              <input
-                type="file"
-                accept="image/*"
-                onChange={handleFileChange}
-                required
-              />
+              <label>PROFILE PHOTO (take photo using webcam)</label>
+              <WebcamCapture onCapture={handlePhotoCapture} onError={setCameraError} />
+              {cameraError && <p className="error-message">{cameraError}</p>}
+              {profilePhoto && <p>Photo captured successfully.</p>}
             </div>
           )}
 
